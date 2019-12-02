@@ -13,7 +13,7 @@ defmodule MagicMap.MixProject do
       name: "MagicMap",
       source_url: "https://github.com/HoangNguyen679/magic-map",
       docs: [
-        main: "MyApp",
+        main: "MagicMap",
         extras: ["README.md"]
       ],
 

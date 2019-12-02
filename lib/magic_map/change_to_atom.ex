@@ -1,5 +1,7 @@
 defmodule MagicMap.ChangeToAtom do
-  @moduledoc false
+  @moduledoc """
+  MagicMap.ChangeToAtom
+  """
 
   @doc ~S"""
   This function aims to change a map to format with key is atom.
