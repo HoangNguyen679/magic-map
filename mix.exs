@@ -4,7 +4,7 @@ defmodule MagicMap.MixProject do
   def project do
     [
       app: :magic_map,
-      version: "0.1.0",
+      version: "0.1.1",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
@@ -30,7 +30,7 @@ defmodule MagicMap.MixProject do
   defp package() do
     [
       name: "magicmap",
-      licenses: ["Apache-2.0"],
+      licenses: ["HoangND"],
       links: %{"GitHub" => "https://github.com/HoangNguyen679/magic-map"}
     ]
   end
